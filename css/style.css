@@ -1,0 +1,99 @@
+header{
+	display: flex;
+	justify-content: space-between;
+}
+.header_logo{
+	margin-left: 122px;
+	margin-top: 109px;
+}
+.header_text{
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 42px;
+	color: #9F9F9F;
+	margin-left: 40px;
+	margin-top: 140px;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 3px solid white;
+	border-radius: 10px;
+	padding-bottom: -10px;
+	text-decoration: none;
+}
+nav{
+	display: flex;
+}
+.p1{
+	margin-right: 200px;
+}
+.top_block_h2{
+	font-family: Rock Salt;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 172px;
+
+color: #000000;
+
+text-shadow: 20px 15px 10px rgba(0, 0, 0, 0.25);
+}
+.top_block_h2{
+	width: 633px;
+	height: 458px;
+	margin-left: 141px;
+}
+.top_block{
+	display: flex;
+}
+.top_block_side_p{
+	position: absolute;
+width: 565px;
+height: 332px;
+left: 143px;
+top: 761px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 37px;
+}
+.top_block_side_p span{
+	color: lightgray;
+	margin-left: 360px; 
+}
+.about_us_logo{
+	font-family: 'Playfair Display', serif;
+	font-style: normal;
+	font-weight: bold;
+font-size: 102px;
+line-height: 95px;
+text-align: center;
+}
+
+.about_us_p{
+	width: 50vw;
+	margin-left: 7vw;
+	text-align: left;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.8;
+    font-weight: 300;
+}
+.about_us_main{
+	display: flex;
+}
+.about_us_main img{
+	margin-left: 100px;
+	border-radius: 20px;
+}
+.header_text:hover{
+	border: 3px solid rgb(51, 153, 255);
+	border-color: rgb(51, 153, 255);
+	border-radius: 10px;
+	transition: 1s;
+	color: rgb(51, 153, 255);
+}
