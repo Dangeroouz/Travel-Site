@@ -97,3 +97,85 @@ text-align: center;
 	transition: 1s;
 	color: rgb(51, 153, 255);
 }
+.main_h2{
+font-family: 'Playfair Display', serif;
+font-weight: bold;
+font-size: 72px;
+line-height: 95px;
+text-align: center;
+margin-top: 200px;
+}
+.main_why_travel{
+	display: flex;
+}
+.main_why_travel img{
+	margin-left: 100px;
+	border-radius: 10px;
+}
+.interesting_travel{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 95px;
+text-align: center;
+margin-top: 300px;
+width: 800px;
+margin-left: 28vw;
+}
+.slider_circle{
+	position: absolute;
+	margin-left: 20vw;
+	margin-top: -100px;
+	z-index: -100;
+}
+.slider_p{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+width: 40vw;
+position: absolute;
+left: 28vw;
+margin-top: 150px;
+}
+.slider_portrait{
+	margin-left: 42vw;
+	position: absolute;
+	margin-top: 320px;
+}
+.slider_decsription{
+	position: absolute;
+height: 48px;
+margin-top: 650px;
+margin-left: 39vw;
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+text-align: center;
+}
+.slider_decsription2{
+	position: absolute;
+height: 48px;
+margin-top: 700px;
+margin-left: 43vw;
+font-family: Red Hat Text;
+font-style: normal;
+
+font-size: 36px;
+line-height: 48px;
+}
+.footer_background{
+	margin-top: 100px;
+	position: absolute;
+}
+.footer_nav{
+	display: flex;
+	margin-top: 1200px;
+}
