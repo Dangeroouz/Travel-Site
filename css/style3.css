@@ -1,0 +1,398 @@
+header{
+	display: flex;
+	justify-content: space-between;
+}
+.header_logo{
+	margin-left: 122px;
+	margin-top: 109px;
+}
+.header_text{
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 42px;
+	color: #9F9F9F;
+	margin-left: 40px;
+	margin-top: 140px;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 3px solid white;
+	border-radius: 10px;
+	padding-bottom: -10px;
+	text-decoration: none;
+}
+nav{
+	display: flex;
+}
+.p1{
+	margin-right: 200px;
+}
+.top_block_h2{
+	font-family: Rock Salt;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 172px;
+
+color: #000000;
+
+text-shadow: 20px 15px 10px rgba(0, 0, 0, 0.25);
+}
+.top_block_h2{
+	width: 633px;
+	height: 458px;
+	margin-left: 141px;
+}
+.top_block{
+	display: flex;
+}
+.top_block_side_p{
+	position: absolute;
+width: 565px;
+height: 332px;
+left: 143px;
+top: 761px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 37px;
+}
+.top_block_side_p span{
+	color: lightgray;
+	margin-left: 360px; 
+}
+.about_us_logo{
+	font-family: 'Playfair Display', serif;
+	font-style: normal;
+	font-weight: bold;
+font-size: 102px;
+line-height: 95px;
+text-align: center;
+}
+
+.about_us_p{
+	width: 50vw;
+	margin-left: 7vw;
+	text-align: left;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.8;
+    font-weight: 300;
+}
+.about_us_main{
+	display: flex;
+}
+.about_us_main img{
+	margin-left: 100px;
+	border-radius: 20px;
+}
+.header_text:hover{
+	border: 3px solid #F34F39;
+	border-color: #F34F39;
+	border-radius: 10px;
+	transition: 1s;
+	color: #F34F39;
+}
+.main_h2{
+font-family: 'Playfair Display', serif;
+font-weight: bold;
+font-size: 72px;
+line-height: 95px;
+text-align: center;
+margin-top: 200px;
+}
+.main_why_travel{
+	display: flex;
+}
+.main_why_travel img{
+	margin-left: 100px;
+	border-radius: 10px;
+}
+.interesting_travel{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 95px;
+text-align: center;
+margin-top: 300px;
+width: 800px;
+margin-left: 28vw;
+}
+.slider_circle{
+	position: absolute;
+	margin-left: 20vw;
+	margin-top: -100px;
+	z-index: -100;
+}
+.top_block img{
+	margin-left: 40px;
+}
+.slider_p{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+width: 40vw;
+position: absolute;
+left: 28vw;
+margin-top: 150px;
+}
+.slider_portrait{
+	margin-left: 42vw;
+	position: absolute;
+	margin-top: 320px;
+}
+.slider_decsription{
+	position: absolute;
+height: 48px;
+margin-top: 650px;
+margin-left: 41vw;
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+text-align: center;
+}
+.slider_decsription2{
+	position: absolute;
+height: 48px;
+margin-top: 700px;
+margin-left: 44vw;
+font-family: Red Hat Text;
+font-style: normal;
+
+font-size: 36px;
+line-height: 48px;
+}
+.footer_background{
+	margin-top: 100px;
+	position: absolute;
+}
+.footer_nav{
+	display: flex;
+	margin-top: 1200px;
+}
+.prices{
+	display: flex;
+	height: 580px;
+}
+.prices img:nth-child(1){
+	margin-left: -69px;
+	align-self: flex-end;
+	margin-right: 40px;
+}
+.prices img:nth-child(3){
+	margin-left: 40px;
+	align-self: flex-end;
+}
+.prices_p1{
+	position: absolute;
+width: 153px;
+height: 66px;
+left: -82px;
+top: 1428px;
+}
+.prices_p2{
+position: absolute;
+width: 153px;
+height: 66px;
+left: 343px;
+top: 1331px;
+}
+.prices_p3{
+position: absolute;
+width: 153px;
+height: 66px;
+left: 749px;
+top: 1420px;
+}
+.prices_p11{
+	position: absolute;
+width: 153px;
+height: 66px;
+left: -52px;
+top: 141px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+color: white;
+}
+.prices_p12{
+position: absolute;
+width: 153px;
+height: 66px;
+left: 363px;
+top: 1316px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+color: white;
+
+}
+.prices_p13{
+position: absolute;
+width: 153px;
+height: 66px;
+left: 769px;
+top: 1404px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+color: white;
+}
+.prices_side h2{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+width: 550px;
+font-weight: normal;
+font-size: 45px;
+line-height: 48px;
+}
+.prices_side p{
+	font-family: Ropa Sans;
+font-style: italic;
+font-weight: normal;
+font-size: 28px;
+line-height: 30px;
+width: 600px;
+}
+.flex{
+	display: flex;
+}
+.prices_side{
+	margin-top: 50px;
+	margin-left: 80px;
+}
+.header_bottom_a{
+font-family: 'Red Hat Text', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+text-align: center;
+background: #F34F39;
+border-radius: 10px;
+color: white;
+width: 12vw;
+text-decoration: none;
+height: 8vh;
+margin-left: -0.2vw;
+margin-top: 60px;
+}
+.prices_name1{
+	position: absolute;
+height: 66px;
+left: 363px;
+top: 1646px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 40px;
+color: white;
+}
+
+.prices_name2{
+	position: absolute;
+left: 763px;
+top: 1720px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 40px;
+color: white;
+}
+.stars{
+position: absolute;
+left: 333px;
+top: 1775px;
+}
+.d7daytour{
+position: absolute;
+left: 533px;
+top: 1750px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 31px;
+/* identical to box height */
+
+text-align: center;
+}
+.videos{
+	display: flex;
+	margin-left: 100px;
+	margin-top: 200px;
+	margin-bottom: 200px;
+}
+.videos2{
+	display: flex;
+	flex-direction: column;
+	margin-left: 30px;
+}
+.videos2 div > iframe{
+	margin-bottom: 30px;
+}
+.videos2 div > iframe:nth-child(1){
+	background: lightgray;
+}
+.flex{
+	display: flex;
+}
+.flexcolumn{
+	display: flex;
+	flex-direction: column;
+	margin-left: 10px;
+}
+.flexcolumn h3{
+	font-family: 'Poppins', sans-serif;
+	width: 150px;
+	margin-top: 10px;
+}
+.flexcolumn p{
+	font-family: 'Poppins', sans-serif;
+	color: gray;
+	margin-top: -10px;
+}
+.footer_nav{
+	
+	color: black;
+}
+
+.footer_nav a{
+	font-size: 40px;
+	text-decoration: none;
+	color: black;
+	margin-left: 4vw;
+	font-family: 'Red Hat Text', sans-serif;
+	margin-top: 200px;
+	z-index: 1000;
+
+}
+.footer_nav a:nth-child(1){
+	margin-left: 25vw;
+}
+.footer_nav a:nth-child(4){
+	color:  #F34F39;
+	
+}

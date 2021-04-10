@@ -179,3 +179,25 @@ line-height: 48px;
 	display: flex;
 	margin-top: 1200px;
 }
+.footer_nav{
+	
+	color: black;
+}
+
+.footer_nav a{
+	font-size: 40px;
+	text-decoration: none;
+	color: black;
+	margin-left: 4vw;
+	font-family: 'Red Hat Text', sans-serif;
+	margin-top: 200px;
+	z-index: 1000;
+
+}
+.footer_nav a:nth-child(1){
+	margin-left: 25vw;
+}
+.footer_nav a:nth-child(1){
+	color: rgb(51, 153, 255);
+	
+}
